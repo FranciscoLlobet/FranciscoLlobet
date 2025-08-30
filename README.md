@@ -26,6 +26,13 @@ Porting, configuration and application programming in
 - **TI Sys/BIOS**
 - **ARM CMSIS RTX**
 - **Eclipse Threadx**
+
+## Use Cases
+
+- Bootloader
+- Firmware Update
+- Remote Configuration
+- Industrial Sensors and Condition Monitoring
   
 ## Peripherals and HAL
 
@@ -42,7 +49,7 @@ Porting, configuration and application programming in
 
 - Vendors: Bosch, Analog Devices, Texas Instruments, STMicroelectonics, Panasonic
 - Types:
-  - Thermometer / Temperature
+  - Thermometer / Temperature / Thermistors
   - Accelerometers (1-Axis, 3-Axis)
   - Magnetometers (3-Axis)
   - Gyroscopes (3-Axis)
@@ -52,3 +59,10 @@ Porting, configuration and application programming in
   - Microphones (Analog and digital)
   - ADC and Analog Frontends
   
+## Other Peripherals
+
+- LCDs
+- NOR Memories
+- Digital Potentiometers / Digipots
+- Port Expanders
+
