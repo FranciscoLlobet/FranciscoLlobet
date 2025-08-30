@@ -10,17 +10,45 @@ Hi, I am Francisco
 
 I built firmware and provided embedded architecture services for companies like Bosch and others,
 
-Microcontroller Vendor Toolchains:
+## Microcontroller Vendor Toolchains:
 
 - **STM32** - STMicroelectronics (STM32F3, STM32F4, STM32F7, STM32L4, STM32G4)
 - **EFM32** - Silabs (EFM32GG)
 - **CC2650** - Texas Instruments
 - **MCXA** - NXP
+- **AVR** Atmel/Microchip AVR
 
-RTOS experience:
+## RTOS experience:
 
-- **FreeRTOS** - Over 10 years of work including porting and configuring systems
-- **TI Sys/BIOS** - Over 2 years of work with embedded BLE stacks
-- **ARM CMSIS RTX** - Self-taught porting and programming
+Porting, configuration and application programming in
 
+- **FreeRTOS**
+- **TI Sys/BIOS**
+- **ARM CMSIS RTX**
+- **Eclipse Threadx**
+  
+## Peripherals and HAL
+
+- SPI (3/4 Wire)
+- UART
+- USART
+- I2C
+- GPIO
+- ADCs
+- Timers (PWM, Timers, Signal)
+- Complex and combined peripherals 
+
+## Sensors
+
+- Vendors: Bosch, Analog Devices, Texas Instruments, STMicroelectonics, Panasonic
+- Types:
+  - Thermometer / Temperature
+  - Accelerometers (1-Axis, 3-Axis)
+  - Magnetometers (3-Axis)
+  - Gyroscopes (3-Axis)
+  - IMUs (Combination of Accel+Mag+Gyro: 6-DoF and 9Dof)
+  - Light Sensors
+  - Pressure Sensors
+  - Microphones (Analog and digital)
+  - ADC and Analog Frontends
   
