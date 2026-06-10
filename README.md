@@ -15,7 +15,8 @@ I built firmware and provided embedded architecture services for companies like 
 - **STM32** - STMicroelectronics (STM32F3, STM32F4, STM32F7, STM32L4, STM32G4)
 - **EFM32** - Silabs (EFM32GG)
 - **CC2650** - Texas Instruments
-- **MCXA** - NXP
+- **MCXA** - NXP MCXA156
+- **MCXE** - NXP MCXA247
 - **AVR** Atmel/Microchip AVR
 
 ## RTOS experience:
@@ -44,6 +45,14 @@ Porting, configuration and application programming in
 - ADCs
 - Timers (PWM, Timers, Signal)
 - Complex and combined peripherals 
+
+## Connectivity
+
+- WiFi via TI SimpleLink
+- BLE via TI CC26xx
+- TLS and mbedTLS
+- MQTT, COAP, LWM2M (various stacks)
+- Ethernet via llwip (STM32F7, MCXE247)
 
 ## Sensors
 
