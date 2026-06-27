@@ -3,6 +3,7 @@
 Hi, I am Francisco 
 
 - 🔭 I’m currently working on
+  - [MISO2](https://github.com/FranciscoLlobet/miso2), an updated overhaul of Miso for other targets
   - [MISO](https://github.com/FranciscoLlobet/efm32-freertos-zig/), a simple updated software stack and IoT application in C and Zig for the XDK110 sensor
   - Some Sudoku algorithm demos for BDD and TDD
 - 🌱 I’m currently learning [Zig](http://www.ziglang.org) and setting up new toolchains for embedded devices.  
@@ -16,7 +17,8 @@ I built firmware and provided embedded architecture services for companies like 
 - **EFM32** - Silabs (EFM32GG)
 - **CC2650** - Texas Instruments
 - **MCXA** - NXP MCXA156
-- **MCXE** - NXP MCXA247
+- **MCXE** - NXP MCXE247
+- **MCXC** - NXP MCXC444
 - **AVR** Atmel/Microchip AVR
 
 ## RTOS experience:
